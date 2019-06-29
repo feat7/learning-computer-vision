@@ -2,7 +2,7 @@
 All resources that I found out for learning computer vision
 
 # Blogs
-- [LearnOpenCv by Satya Mallick](https://github.com/spmallick/learnopencv)
+- [LearnOpenCV by Satya Mallick](https://github.com/spmallick/learnopencv)
 - [PyImageSearch by Adrian Rosebrock](https://pyimagesearch.com)
 
 # Courses
@@ -16,6 +16,11 @@ All resources that I found out for learning computer vision
 
 # Topics
 - Object Tracking
+- GOTURN
 - Filters (Gaussian, and others)
 - Mask
 - Seamless Cloning
+
+# Curated Lists for CV
+- [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+- [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
