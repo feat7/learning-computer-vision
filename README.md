@@ -15,6 +15,10 @@ All resources that I found out for learning computer vision
 - [Image Captioning Project](https://github.com/udacity/CVND---Image-Captioning-Project)
 - [CVND Localization Exercises](https://github.com/udacity/CVND_Localization_Exercises)
 
+# Datasets
+- [Jester - Hand Gestures by Humans](https://20bn.com/datasets/jester)
+- [Car License Plates](https://dataturks.com/projects/Mohan/Car%20License%20Plate%20Detection)
+
 # Topics
 - Object Tracking
 - GOTURN
