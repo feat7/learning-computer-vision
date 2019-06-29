@@ -9,10 +9,11 @@ All resources that I found out for learning computer vision
 - [Computer Vision Nanodegree - Udacity](https://www.udacity.com/course/computer-vision-nanodegree--nd891)
 
 # Github resources
-- [CVND Resources](https://github.com/udacity/CVND_Exercises)
+- [CVND Exercises](https://github.com/udacity/CVND_Exercises)
 - [Gesture Recognition - CVND](https://github.com/udacity/CVND---Gesture-Recognition)
 - [Facial Keypoints - AIND-CV](https://github.com/udacity/AIND-CV-FacialKeypoints)
 - [Image Captioning Project](https://github.com/udacity/CVND---Image-Captioning-Project)
+- [CVND Localization Exercises](https://github.com/udacity/CVND_Localization_Exercises)
 
 # Topics
 - Object Tracking
