@@ -1,6 +1,7 @@
 # learning-computer-vision
 
-All resources that I found out for learning computer vision
+All resources that I found out for learning computer vision.
+Some code explainations are available here.
 
 # Blogs
 
@@ -9,6 +10,7 @@ All resources that I found out for learning computer vision
 
 # Courses
 
+- [The Ancient Secrets of Computer Vision - University of Washington](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p)
 - [Computer Vision Nanodegree - Udacity](https://www.udacity.com/course/computer-vision-nanodegree--nd891)
 
 # Github resources
